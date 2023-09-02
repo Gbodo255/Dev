@@ -1,0 +1,38 @@
+h1{
+    text-align: right;
+    font-family: cursive;
+    font-size: 50px;
+    margin-right: 2%;
+    color: white;
+}
+li{
+    list-style-type: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+.tre{
+    margin-top: 10%;
+    margin-left: 50%;
+}
+button{
+    border-radius: 20px;
+    background-color: black  ;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    font-size: 20px;
+    border: black;
+    
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: rgb(33, 46, 82);
+}
+.paz{
+    font-family: cursive;
+}

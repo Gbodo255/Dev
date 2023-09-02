@@ -1,0 +1,96 @@
+body{
+    padding: 0%;
+    margin-bottom: 0%;
+    background-color: rgb(33, 46, 82);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+nav{
+    background-color: rgb(139, 136, 108);
+    text-align: center;
+    margin-left: 84%;
+    padding-bottom: 100%;
+    padding-top: 5%;
+    padding-left: 0%;
+    padding-right: 0%;
+    border: 1px;
+    box-shadow: 25px 25px 25px 25px black ;
+}
+nav a:hover {    
+    color: #041fb6;    
+    border-bottom: 3px solid #041fb6; 
+}
+aside{
+    margin-right: 10%;
+    margin-top: -140%;
+    padding-left: 0%;
+    text-align: center;
+    font-family: cursive;
+}
+.th{
+    position: fixed;
+    text-align: center;
+}
+.fr{
+    text-align: center; 
+}
+form{
+    text-align: center;
+    border: 4px outset black;
+    border-radius: 30px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    box-shadow: 5px 5px 5px 5px rgb(48, 35, 35) ;
+}
+.tr{
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0) ;
+    color: rgb(255, 255, 255);
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    font-size: 15px;
+    border: 1px outset rgb(58, 35, 35);
+}
+input{
+    border-radius: 20px;
+    background-color: rgb(116, 144, 177) ;
+    color: rgb(0, 0, 0);
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    padding-left: 7%;
+    padding-right: 7%;
+    font-family: cursive;
+}
+textarea{
+    border-radius: 20px;
+    background-color: rgb(116, 144, 177) ;
+    color: rgb(0, 0, 0);
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    padding-left: 7%;
+    padding-right: 7%;
+    font-family: cursive;
+}
+

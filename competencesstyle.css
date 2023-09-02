@@ -1,0 +1,119 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(33, 46, 82);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    position: fixed;
+    text-align: center;
+}
+nav{
+    background-color: rgb(139, 136, 108);
+    text-align: center;
+    margin-left: 84%;
+    margin-bottom: -155%;
+    padding-bottom: 150%;
+    padding-top: 5%;
+    padding-left: 0%;
+    padding-right: 0%;
+    border: 1px;
+    box-shadow: 25px 25px 25px 25px black ;
+}
+.bloc{
+    margin-right: 16%;
+    margin-top: -190%;
+    padding-top: -100%;
+}
+nav a:hover {    
+    color: #041fb6;    
+    border-bottom: 3px solid #041fb6; 
+}
+.bloc1{
+    margin-left: 45%;
+    margin-right: 5%;
+    margin-top: -37%;
+    font-size: 25px;
+}
+button{
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255) ;
+    color: rgb(0, 0, 0);
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    font-size: 15px;
+    border: black;
+}
+.bloc2{
+    text-align: center;
+    font-size: 25px;
+}
+.sousbloc{
+    text-align: left;
+    margin-left: 0%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(70, 59, 59);
+}
+h1{
+    font-family: cursive;
+}
+p{
+    border: 1px solid #760001;
+    border-radius: 10px;
+    margin-right: 50%;
+    font-size: 10px;
+    background-color: #760001;
+    color: #760001;
+}
+#g1{ 
+    margin-right: 20%;
+}
+#g2{
+    margin-right: 20%;
+}
+#g3{
+    margin-right: 35%;
+}
+#g4{
+    margin-right: 50%;
+}
+#g5{
+    margin-right: 30%;
+}
+h3{
+    text-align: right;
+    font-size: 20px;
+    margin-top: -5%;
+    margin-right: 18%;
+}
+.image{
+    width: 400px;
+    height: 400px;
+    margin-top: 10%;
+    margin-right: 60%;
+    border-radius: 100px;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: antiquewhite;
+    
+}
+
